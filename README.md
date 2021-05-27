@@ -4,4 +4,4 @@
 <b>2.</b> Python dili, "TensorFlow" kütüphanesi ile Derin Öğrenme (görüntü işlemeye yönelik) uygulaması gerçekleştiriniz. Mevcut kod üzerinde satır satır değişiklikler yaparak farklı algoritma ve parametrelerle görüntü tanıma sistemi geliştirebilirsiniz.
 <br />
 
-#### Not: 
+<b>Not:</b> ...... Puan
